@@ -1,6 +1,6 @@
 # GitHub Actions: From Zero to Hero Workshop
 
-In this workshop we're going to cover GitHub Actions. For a tangentially related workshop of using GitHub Actions to deploy to Azure using Bicep, check out this repo: [https://github.com/scottsauber/workshop-dotnet-azure-github-bicep](https://github.com/braeden-kelly/codemash2025-github-actions-from-zero-to-hero-workshop-workshop-dotnet-azure-github-bicep)
+In this workshop we're going to cover GitHub Actions. For a tangentially related workshop of using GitHub Actions to deploy to Azure using Bicep, check out this repo: https://github.com/braeden-kelly/codemash2025-github-actions-from-zero-to-hero-workshop-workshop-dotnet-azure-github-bicep
 
 ## Pre-requisites:
 
