@@ -1,6 +1,6 @@
 # GitHub Actions: From Zero to Hero Workshop
 
-In this workshop we're going to cover GitHub Actions. For a tangentially related workshop of using GitHub Actions to deploy to Azure using Bicep, check out this repo: https://github.com/braeden-kelly/cm25-gafzthw
+In this workshop we're going to cover GitHub Actions. For a tangentially related workshop of using GitHub Actions to deploy to Azure using Bicep, check out this repo: https://github.com/braeden-kelly/cm25-gafzth-w
 
 ## Pre-requisites:
 
@@ -99,7 +99,7 @@ No hands-on work, just going over slides
 ## Module 8 - Hands On: Reusable Workflows
 
 1. Let's create a reusable workflow for PR Verify and CI to reduce duplication
-1. Note: I don't normally do this for PR + CI, but will do it for deploys (see [here](https://github.com/braeden-kelly/cm25-gafzthw?tab=readme-ov-file#module-6---github-actions-hands-on) for more details).
+1. Note: I don't normally do this for PR + CI, but will do it for deploys (see [here](https://github.com/braeden-kelly/cm25-gafzth-w?tab=readme-ov-file#module-6---github-actions-hands-on) for more details).
 1. Create a file called `reusable-build.yml`
 1. Add the following to it:
 
