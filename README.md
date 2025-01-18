@@ -99,7 +99,7 @@ No hands-on work, just going over slides
 ## Module 8 - Hands On: Reusable Workflows
 
 1. Let's create a reusable workflow for PR Verify and CI to reduce duplication
-1. Note: I don't normally do this for PR + CI, but will do it for deploys (see [here](https://github.com/scottsauber/workshop-dotnet-azure-github-bicep?tab=readme-ov-file#module-6---github-actions-hands-on) for more details).
+1. Note: I don't normally do this for PR + CI, but will do it for deploys (see [here](https://github.com/braeden-kelly/codemash2025-github-actions-from-zero-to-hero-workshop-workshop-dotnet-azure-github-bicep?tab=readme-ov-file#module-6---github-actions-hands-on) for more details).
 1. Create a file called `reusable-build.yml`
 1. Add the following to it:
 
